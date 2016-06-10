@@ -1,6 +1,6 @@
 public class Catalogo {
 	
-	/** Arreglo de combinaciones en Maquina Helados*/
+	/** Arreglo de combinaciones en Maquina Helados***/
 	private Combo [] comboArray;
 	/** Numero de combos en Maquina Helados */
 	private final int NUM_COMBOS = 4; 
